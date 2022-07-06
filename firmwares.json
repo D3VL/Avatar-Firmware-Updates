@@ -1,0 +1,40 @@
+[
+    {
+        "badges": [
+            "official",
+            "unknown"
+        ],
+        "version": "20.22.4",
+        "date": "2022-06-29",
+        "sky_version": "20.22.4",
+        "sky_sha1": "42084E4A1FA6CF95ECDF72E806DC3B0C6E170849",
+        "ground_version": "20.22.4",
+        "ground_sha1": "2C3C8E359BAC0BE5DEF01BB90DA517B61C9176A1",
+        "notes": "Pre Release FW"
+    },
+    {
+        "badges": [
+            "official"
+        ],
+        "version": "21.22.4",
+        "date": "2022-06-30",
+        "sky_version": "21.22.4",
+        "sky_sha1": "7E1C3FA4A4EFDE0B8CB4DE55B739779D4CEFA96C",
+        "ground_version": "21.22.4",
+        "ground_sha1": "C49164307E54E5A64AE116C7D4FA2ABB54B4D33C",
+        "notes": "First Public Firmware Release"
+    },
+    {
+        "badges": [
+            "official",
+            "latest"
+        ],
+        "version": "21.22.5",
+        "date": "2022-07-05",
+        "sky_version": "21.22.5",
+        "sky_sha1": "23CD030996FFB74B2B9CB481704718C9AFB82BBE",
+        "ground_version": "21.22.5",
+        "ground_sha1": "78630700781A55CCE1A46CE755BFAEC07487D13B",
+        "notes": "Improved Clarity"
+    }
+]

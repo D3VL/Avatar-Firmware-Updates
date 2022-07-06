@@ -1,0 +1,20 @@
+.sha-text {
+    font-size: 12px;
+    line-height: 12px;
+}
+
+header {
+    background-image: url("../img/header.png");
+    background-size: cover;
+    background-position: center;
+    min-height: 250px;
+}
+
+body,
+.card {
+    background-color: #141414 !important;
+}
+
+.card {
+    border: 1px rgb(57, 57, 57) solid;
+}

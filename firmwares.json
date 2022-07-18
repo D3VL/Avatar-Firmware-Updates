@@ -26,8 +26,7 @@
     },
     {
         "badges": [
-            "official",
-            "latest"
+            "official"
         ],
         "version": "21.22.5",
         "date": "2022-07-05",
@@ -36,5 +35,18 @@
         "ground_version": "21.22.5",
         "ground_sha1": "78630700781A55CCE1A46CE755BFAEC07487D13B",
         "notes": "Improved Clarity"
+    },
+    {
+        "badges": [
+            "official",
+            "latest"
+        ],
+        "version": "23.23.5",
+        "date": "2022-07-18",
+        "sky_version": "23.23.5",
+        "sky_sha1": "8FC94D0C9E6DB1BDCDFF4EB2C82DA4A4B809A8CC",
+        "ground_version": "23.23.5",
+        "ground_sha1": "DABDE2AF3B10B482650F57597E1014323421E72E",
+        "notes": "50 Mbps mode, image and performance optimization, fixed other known issues"
     }
 ]

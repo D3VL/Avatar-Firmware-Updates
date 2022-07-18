@@ -41,11 +41,11 @@
             "official",
             "latest"
         ],
-        "version": "23.23.5",
+        "version": "23.23.4",
         "date": "2022-07-18",
-        "sky_version": "23.23.5",
+        "sky_version": "23.23.4",
         "sky_sha1": "8FC94D0C9E6DB1BDCDFF4EB2C82DA4A4B809A8CC",
-        "ground_version": "23.23.5",
+        "ground_version": "23.23.4",
         "ground_sha1": "DABDE2AF3B10B482650F57597E1014323421E72E",
         "notes": "50 Mbps mode, image and performance optimization, fixed other known issues"
     }

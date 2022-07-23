@@ -42,21 +42,73 @@
     </header>
     <div class="container ">
 
-        <!-- <section id="filters">
-            <div class="card p-3 mb-3">
-                <div class="row">
+        <section id="filters">
+            <div class="card bordered p-3 mb-3 text-white">
+                <div class="row ">
+                    <!-- Tag [Official, Unknown, Latest] -->
+
+                    <div class="col-12 col-md-3 col-lg-2">
+                        <div class="form-group">
+                            <label for="tag">Tag</label>
+                            <select class="form-control" id="tag">
+                                <option value="*">All</option>
+                                <option value="latest">Latest</option>
+                                <option value="official">Official</option>
+                                <option value="custom">Custom</option>
+                                <option value="unknown">Unknown</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- version -->
+                    <div class="col-12 col-md-3 col-lg-2 col-xl-1">
+                        <div class="form-group">
+                            <label for="version">Major</label>
+                            <select class="form-control" id="version_major">
+                                <option value="*">All</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-3 col-lg-2 col-xl-1">
+                        <div class="form-group">
+                            <label for="version">Minor</label>
+                            <select class="form-control" id="version_minor">
+                                <option value="*">All</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-3 col-lg-2 col-xl-1">
+                        <div class="form-group">
+                            <label for="version">Patch</label>
+                            <select class="form-control" id="version_patch">
+                                <option value="*">All</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- downgrading -->
+                    <div class="ms-0 ms-lg-auto col-12 col-md col-lg-2 row mt-2" style="min-width: 215px;">
+                        <div class="col-auto ms-lg-auto form-group">
+                            <label for="version">Downgrading</label><br>
+                            <small><a class="text-muted" href="#downgrade-why">What Is This?</a></small>
+                        </div>
+                        <div class="col form-check ms-1 ms-lg-3 mt-2">
+                            <input class="form-check-input" type="checkbox" value="" id="isDowngrading">
+                        </div>
+                    </div>
 
                 </div>
             </div>
-        </section> -->
+        </section>
 
         <section id="firmwares" class="text-white"></section>
 
         <section class="row text-white">
-            <h2 class="text-center mb-3">Update Procedure</h2>
             <div class="col-12 col-lg-6 mb-3">
                 <div class="card p-3">
-                    <h3>Goggles</h3>
+                    <h2 class="text-center mb-3">Update Goggles</h2>
                     <ol>
                         <li>Download latest Ground Firmware File</li>
                         <li>Remove the SD card from your goggles and insert it into your computer.</li>
@@ -74,7 +126,7 @@
 
             <div class="col-12 col-lg-6 mb-3">
                 <div class="card p-3">
-                    <h3>Video Transmitter</h3>
+                    <h2 class="text-center mb-3">Update Video Transmitter</h2>
                     <ol>
                         <li>Download latest Sky Firmware File</li>
                         <li>Connect your transmitter to your computer using the USB cable that was included with the transmitter.</li>
@@ -90,6 +142,22 @@
                     </ol>
                 </div>
             </div>
+        </section>
+
+        <section class="row text-white" id="downgrade-why">
+            <div class="col-12 mb-3">
+                <div class="card p-3">
+                    <h2 class="text-center mb-3">Downgrading</h2>
+                    <p>
+                        The <span class="badge rounded-pill bg-success">Official</span> firmware files provided here contain an anti downgrade mechanism.<br>
+                        This can be bypassed by simply changing the name of the update file to that of a higher version number currently installed.<br>
+                        To download a modified Firmware file, check the <b>Downgrading</b> box and then click the desired <span class="badge pill bg-primary">Download</span> buttons.<br>
+                        A file starting with 90.**.5 will be downloaded, where ** is a random number to avoid collisions in your downloads folder.<br>
+                        <small><i>We recommend once you've downgraded, to delete these files as to avoid future confusion!</i></small>
+                    </p>
+                </div>
+            </div>
+
         </section>
 
         <section>

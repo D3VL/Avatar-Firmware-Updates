@@ -11,10 +11,21 @@ header {
 }
 
 body,
-.card {
+.card, select, input, textarea {
     background-color: #141414 !important;
 }
 
-.card {
-    border: 1px rgb(57, 57, 57) solid;
+.card, select, input, textarea {
+    border: 1px rgb(57, 57, 57) solid !important;
+    color: #fff !important;
+}
+
+.form-check-input[type="checkbox"] {
+    background-color: initial !important;
+}
+
+#isDowngrading {
+    height: 38px; 
+    width: 38px; 
+    margin-top: 0px;
 }

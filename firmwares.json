@@ -38,8 +38,7 @@
     },
     {
         "badges": [
-            "official",
-            "latest"
+            "official"
         ],
         "version": "23.23.4",
         "date": "2022-07-18",
@@ -48,5 +47,18 @@
         "ground_version": "23.23.4",
         "ground_sha1": "DABDE2AF3B10B482650F57597E1014323421E72E",
         "notes": "50 Mbps mode, image and performance optimization, fixed other known issues"
+    },
+    {
+        "badges": [
+            "official",
+            "latest"
+        ],
+        "version": "26.30.6",
+        "date": "2022-08-23",
+        "sky_version": "26.30.6",
+        "sky_sha1": "FD5F45266691C508F80A74C90D523A20C402BC28",
+        "ground_version": "26.30.6",
+        "ground_sha1": "5B10C15F74938FB696F09E3A6A5AD582317266CE",
+        "notes": "4:3 mode, Improved night vision, Optimized Image quality & Penetration, DVR Playback Fixes, OSD Fixed, Misc bug Fixes"
     }
 ]

@@ -50,8 +50,7 @@
     },
     {
         "badges": [
-            "official",
-            "latest"
+            "official"
         ],
         "version": "26.30.6",
         "date": "2022-08-23",
@@ -60,5 +59,18 @@
         "ground_version": "26.30.6",
         "ground_sha1": "5B10C15F74938FB696F09E3A6A5AD582317266CE",
         "notes": "4:3 mode, Improved night vision, Optimized Image quality & Penetration, DVR Playback Fixes, OSD Fixed, Misc bug Fixes"
+    },
+    {
+        "badges": [
+            "official",
+            "latest"
+        ],
+        "version": "27.32.10",
+        "date": "2022-09-09",
+        "sky_version": "27.32.10",
+        "sky_sha1": "0B87E8A0FB02F0AAAC17A76F5E80CB6D79BF62AD",
+        "ground_version": "27.32.10",
+        "ground_sha1": "F59FB040A61CCB3B2EB2F055CF6CE1CDB720272D",
+        "notes": "Inav, Kiss and Fettec OSD support, Low power functionality, Image transmission optimizations, Misc bug Fixes"
     }
 ]

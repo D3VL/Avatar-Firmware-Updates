@@ -76,6 +76,19 @@
     {
         "badges": [
             "official",
+            "beta"
+        ],
+        "version": "27.32.9",
+        "date": "2022-09-06",
+        "sky_version": "27.32.9",
+        "sky_sha1": "D1A9E3B68952D38EF2CD30DE2C44639CF1AA3ACF",
+        "ground_version": "27.32.9",
+        "ground_sha1": "DE0BA0C9C78142BED2D2EF5843C9D8AB3E99E0CC",
+        "notes": "- no notes -"
+    },
+    {
+        "badges": [
+            "official",
             "latest"
         ],
         "version": "27.32.10",

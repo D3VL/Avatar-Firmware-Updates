@@ -53,6 +53,19 @@
             "official",
             "beta"
         ],
+        "version": "24.26.4",
+        "date": "2022-07-28",
+        "sky_version": "24.26.4",
+        "sky_sha1": "D52881440A3696C43A5727C8EFD553EC0429FD30",
+        "ground_version": "24.26.4",
+        "ground_sha1": "2B4A990B50C57FE5B38D9F367CB05835E9504047",
+        "notes": "- no notes -"
+    },
+    {
+        "badges": [
+            "official",
+            "beta"
+        ],
         "version": "25.29.4",
         "date": "2022-08-11",
         "sky_version": "25.29.4",

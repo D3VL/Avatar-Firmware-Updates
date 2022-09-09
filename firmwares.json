@@ -50,6 +50,19 @@
     },
     {
         "badges": [
+            "official",
+            "beta"
+        ],
+        "version": "25.29.4",
+        "date": "2022-08-11",
+        "sky_version": "25.29.4",
+        "sky_sha1": "F925DFE556F5FFE83F15AD31010A2CC50B3C1C72",
+        "ground_version": "25.29.4",
+        "ground_sha1": "90B8DF6210C4D2FE9B2E875D80D304756FCAC2BF",
+        "notes": "- no notes -"
+    },
+    {
+        "badges": [
             "official"
         ],
         "version": "26.30.6",

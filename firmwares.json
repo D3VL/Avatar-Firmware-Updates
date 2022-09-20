@@ -4,125 +4,242 @@
             "official",
             "unknown"
         ],
-        "version": "20.22.4",
         "date": "2022-06-29",
-        "sky_version": "20.22.4",
-        "sky_sha1": "42084E4A1FA6CF95ECDF72E806DC3B0C6E170849",
-        "ground_version": "20.22.4",
-        "ground_sha1": "2C3C8E359BAC0BE5DEF01BB90DA517B61C9176A1",
-        "notes": "Pre Release FW"
+        "version": "20.22.4",
+        "notes": "Pre Release FW",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "42084E4A1FA6CF95ECDF72E806DC3B0C6E170849",
+                "url": "/dl/20.22.4/Avatar_Sky_20.22.4.img",
+                "filename": "Avatar_Sky_20.22.4.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "2C3C8E359BAC0BE5DEF01BB90DA517B61C9176A1",
+                "url": "/dl/20.22.4/Avatar_Gnd_20.22.4.img",
+                "filename": "Avatar_Gnd_20.22.4.img"
+            }
+        ]
     },
     {
         "badges": [
             "official"
         ],
-        "version": "21.22.4",
         "date": "2022-06-30",
-        "sky_version": "21.22.4",
-        "sky_sha1": "7E1C3FA4A4EFDE0B8CB4DE55B739779D4CEFA96C",
-        "ground_version": "21.22.4",
-        "ground_sha1": "C49164307E54E5A64AE116C7D4FA2ABB54B4D33C",
-        "notes": "First Public Firmware Release"
+        "version": "21.22.4",
+        "notes": "First Public Firmware Release",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "7E1C3FA4A4EFDE0B8CB4DE55B739779D4CEFA96C",
+                "url": "/dl/21.22.4/Avatar_Sky_21.22.4.img",
+                "filename": "Avatar_Sky_21.22.4.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "C49164307E54E5A64AE116C7D4FA2ABB54B4D33C",
+                "url": "/dl/21.22.4/Avatar_Gnd_21.22.4.img",
+                "filename": "Avatar_Gnd_21.22.4.img"
+            }
+        ]
     },
     {
         "badges": [
             "official"
         ],
-        "version": "21.22.5",
         "date": "2022-07-05",
-        "sky_version": "21.22.5",
-        "sky_sha1": "23CD030996FFB74B2B9CB481704718C9AFB82BBE",
-        "ground_version": "21.22.5",
-        "ground_sha1": "78630700781A55CCE1A46CE755BFAEC07487D13B",
-        "notes": "Improved Clarity"
+        "version": "21.22.5",
+        "notes": "Improved Clarity",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "23CD030996FFB74B2B9CB481704718C9AFB82BBE",
+                "url": "/dl/21.22.5/Avatar_Sky_21.22.5.img",
+                "filename": "Avatar_Sky_21.22.5.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "78630700781A55CCE1A46CE755BFAEC07487D13B",
+                "url": "/dl/21.22.5/Avatar_Gnd_21.22.5.img",
+                "filename": "Avatar_Gnd_21.22.5.img"
+            }
+        ]
     },
     {
         "badges": [
             "official",
             "beta"
         ],
-        "version": "22.22.6",
         "date": "2022-07-12",
-        "sky_version": "22.22.6",
-        "sky_sha1": "7752DF43239654ED2A0DAB2743D6510D50343B8A",
-        "ground_version": "22.22.6",
-        "ground_sha1": "611F2610C567330170612AE0B36282B6603BA318",
-        "notes": "- no notes -"
+        "version": "22.22.6",
+        "notes": "- no notes -",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "7752DF43239654ED2A0DAB2743D6510D50343B8A",
+                "url": "/dl/22.22.6/Avatar_Sky_22.22.6.img",
+                "filename": "Avatar_Sky_22.22.6.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "611F2610C567330170612AE0B36282B6603BA318",
+                "url": "/dl/22.22.6/Avatar_Gnd_22.22.6.img",
+                "filename": "Avatar_Gnd_22.22.6.img"
+            }
+        ]
     },
     {
         "badges": [
             "official"
         ],
-        "version": "23.23.4",
         "date": "2022-07-18",
-        "sky_version": "23.23.4",
-        "sky_sha1": "8FC94D0C9E6DB1BDCDFF4EB2C82DA4A4B809A8CC",
-        "ground_version": "23.23.4",
-        "ground_sha1": "DABDE2AF3B10B482650F57597E1014323421E72E",
-        "notes": "50 Mbps mode, image and performance optimization, fixed other known issues"
+        "version": "23.23.4",
+        "notes": "50 Mbps mode, image and performance optimization, fixed other known issues",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "8FC94D0C9E6DB1BDCDFF4EB2C82DA4A4B809A8CC",
+                "url": "/dl/23.23.4/Avatar_Sky_23.23.4.img",
+                "filename": "Avatar_Sky_23.23.4.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "DABDE2AF3B10B482650F57597E1014323421E72E",
+                "url": "/dl/23.23.4/Avatar_Gnd_23.23.4.img",
+                "filename": "Avatar_Gnd_23.23.4.img"
+            }
+        ]
     },
     {
         "badges": [
             "official",
             "beta"
         ],
-        "version": "24.26.4",
         "date": "2022-07-28",
-        "sky_version": "24.26.4",
-        "sky_sha1": "D52881440A3696C43A5727C8EFD553EC0429FD30",
-        "ground_version": "24.26.4",
-        "ground_sha1": "2B4A990B50C57FE5B38D9F367CB05835E9504047",
-        "notes": "- no notes -"
+        "version": "24.26.4",
+        "notes": "- no notes -",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "D52881440A3696C43A5727C8EFD553EC0429FD30",
+                "url": "/dl/24.26.4/Avatar_Sky_24.26.4.img",
+                "filename": "Avatar_Sky_24.26.4.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "2B4A990B50C57FE5B38D9F367CB05835E9504047",
+                "url": "/dl/24.26.4/Avatar_Gnd_24.26.4.img",
+                "filename": "Avatar_Gnd_24.26.4.img"
+            }
+        ]
     },
     {
         "badges": [
             "official",
             "beta"
         ],
-        "version": "25.29.4",
         "date": "2022-08-11",
-        "sky_version": "25.29.4",
-        "sky_sha1": "F925DFE556F5FFE83F15AD31010A2CC50B3C1C72",
-        "ground_version": "25.29.4",
-        "ground_sha1": "90B8DF6210C4D2FE9B2E875D80D304756FCAC2BF",
-        "notes": "- no notes -"
+        "version": "25.29.4",
+        "notes": "- no notes -",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "F925DFE556F5FFE83F15AD31010A2CC50B3C1C72",
+                "url": "/dl/25.29.4/Avatar_Sky_25.29.4.img",
+                "filename": "Avatar_Sky_25.29.4.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "90B8DF6210C4D2FE9B2E875D80D304756FCAC2BF",
+                "url": "/dl/25.29.4/Avatar_Gnd_25.29.4.img",
+                "filename": "Avatar_Gnd_25.29.4.img"
+            }
+        ]
     },
     {
         "badges": [
             "official"
         ],
-        "version": "26.30.6",
         "date": "2022-08-23",
-        "sky_version": "26.30.6",
-        "sky_sha1": "FD5F45266691C508F80A74C90D523A20C402BC28",
-        "ground_version": "26.30.6",
-        "ground_sha1": "5B10C15F74938FB696F09E3A6A5AD582317266CE",
-        "notes": "4:3 mode, Improved night vision, Optimized Image quality & Penetration, DVR Playback Fixes, OSD Fixed, Misc bug Fixes"
+        "version": "26.30.6",
+        "notes": "4:3 mode, Improved night vision, Optimized Image quality & Penetration, DVR Playback Fixes, OSD Fixed, Misc bug Fixes",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "FD5F45266691C508F80A74C90D523A20C402BC28",
+                "url": "/dl/26.30.6/Avatar_Sky_26.30.6.img",
+                "filename": "Avatar_Sky_26.30.6.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "5B10C15F74938FB696F09E3A6A5AD582317266CE",
+                "url": "/dl/26.30.6/Avatar_Gnd_26.30.6.img",
+                "filename": "Avatar_Gnd_26.30.6.img"
+            }
+        ]
+    },
+    {
+        "badges": [
+            "official",
+            "mini"
+        ],
+        "date": "2022-09-20",
+        "version": "26.31.7",
+        "notes": "- Unknown Notes -",
+        "downloads": [
+            {
+                "btn": "Download Mini Sky",
+                "sha1": "7A6C194529D7040A4ACDBCF5934B78445F2A846F",
+                "url": "/dl/26.31.7/AvatarMini_Sky_26.31.7.img",
+                "filename": "AvatarMini_Sky_26.31.7.img"
+            }
+        ]
     },
     {
         "badges": [
             "official",
             "beta"
         ],
-        "version": "27.32.9",
         "date": "2022-09-06",
-        "sky_version": "27.32.9",
-        "sky_sha1": "D1A9E3B68952D38EF2CD30DE2C44639CF1AA3ACF",
-        "ground_version": "27.32.9",
-        "ground_sha1": "DE0BA0C9C78142BED2D2EF5843C9D8AB3E99E0CC",
-        "notes": "- no notes -"
+        "version": "27.32.9",
+        "notes": "- no notes -",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "D1A9E3B68952D38EF2CD30DE2C44639CF1AA3ACF",
+                "url": "/dl/27.32.9/Avatar_Sky_27.32.9.img",
+                "filename": "Avatar_Sky_27.32.9.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "DE0BA0C9C78142BED2D2EF5843C9D8AB3E99E0CC",
+                "url": "/dl/27.32.9/Avatar_Gnd_27.32.9.img",
+                "filename": "Avatar_Gnd_27.32.9.img"
+            }
+        ]
     },
     {
         "badges": [
             "official",
             "latest"
         ],
-        "version": "27.32.10",
         "date": "2022-09-09",
-        "sky_version": "27.32.10",
-        "sky_sha1": "0B87E8A0FB02F0AAAC17A76F5E80CB6D79BF62AD",
-        "ground_version": "27.32.10",
-        "ground_sha1": "F59FB040A61CCB3B2EB2F055CF6CE1CDB720272D",
-        "notes": "Inav, Kiss and Fettec OSD support, Low power functionality, Image transmission optimizations, Misc bug Fixes"
+        "version": "27.32.10",
+        "notes": "Inav, Kiss and Fettec OSD support, Low power functionality, Image transmission optimizations, Misc bug Fixes",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "0B87E8A0FB02F0AAAC17A76F5E80CB6D79BF62AD",
+                "url": "/dl/27.32.10/Avatar_Sky_27.32.10.img",
+                "filename": "Avatar_Sky_27.32.10.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "F59FB040A61CCB3B2EB2F055CF6CE1CDB720272D",
+                "url": "/dl/27.32.10/Avatar_Gnd_27.32.10.img",
+                "filename": "Avatar_Gnd_27.32.10.img"
+            }
+        ]
     }
 ]

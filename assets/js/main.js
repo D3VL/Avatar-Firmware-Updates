@@ -48,6 +48,11 @@ function updateFilters() {
     filtered_firmwares = filtered;
 }
 
+function renameFileVersion(original, new_version = false) {
+    if (!new_version) return original
+    return original.replace(/(\d+\.\d+\.\d+)/, new_version);
+}
+
 // on tag, version_major, version_minor, version_patch change, update the filtered firmwares
 document.getElementById("tag").addEventListener("change", () => {
     updateFilters();
@@ -101,21 +106,19 @@ function displayFirmwares(firmwares) {
                     ${override_fw_version ? '<small>Downgrade as <b>' + override_fw_version + '</b></small><br>' : ''}
                     <small>Released: <b>${new Date(firmware.date).toLocaleDateString()}</b></small>
 
-                    <p>${firmware.notes}</p>
+                    <pre>${firmware.notes}</pre>
 
                     ${firmware.badges.map(type => BADGES[type]).join("\n")}
                 </div>
 
                 <div class="col-12 col-lg-4">
                     <div class="row text-center">
+                     ` + firmware.downloads.map(download => `
                         <div class="col-12 mb-2">
-                            <a target="_blank" download="Avatar_Sky_${override_fw_version ? override_fw_version : firmware.sky_version}.img" href="firmwares/${firmware.version}/Avatar_Sky_${firmware.sky_version}.img" class="btn btn-primary w-100">Download Sky</a>
-                            <small class="sha-text">${firmware.sky_sha1}</small>
+                            <a target="_blank" download="${renameFileVersion(download.filename, override_fw_version)}" href="${download.url}" class="btn btn-primary w-100">${download.btn}</a>
+                            <small class="sha-text">${download.sha1}</small>
                         </div>
-                        <div class="col-12">
-                            <a target="_blank" download="Avatar_Gnd_${override_fw_version ? override_fw_version : firmware.ground_version}.img" href="firmwares/${firmware.version}/Avatar_Gnd_${firmware.sky_version}.img" class="btn btn-primary w-100">Download Ground</a>
-                            <small class="sha-text">${firmware.ground_sha1}</small>
-                        </div>
+                     `).join("\n") + `
                     </div>
                 </div>
             </div>

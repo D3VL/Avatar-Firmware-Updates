@@ -3,7 +3,8 @@ const BADGES = {
     "official": `<span class="badge rounded-pill bg-success">Official</span>`,
     "custom": `<span class="badge rounded-pill bg-warning">Custom</span>`,
     "unknown": `<span class="badge rounded-pill bg-danger">Unknown Origin</span>`,
-    "beta": `<span class="badge rounded-pill bg-info">Beta</span>`
+    "beta": `<span class="badge rounded-pill bg-info">Beta</span>`,
+    "mini": `<span class="badge rounded-pill bg-secondary">Mini</span>`,
 }
 
 let firmwares = [];

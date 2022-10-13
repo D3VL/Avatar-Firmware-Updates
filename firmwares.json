@@ -226,7 +226,7 @@
         ],
         "date": "2022-09-09",
         "version": "27.32.10",
-        "notes": "Inav, Kiss and Fettec OSD support, Low power functionality, Image transmission optimizations, Misc bug Fixes",
+        "notes": "Inav, Kiss Ultra and Fettec OSD support, Low power functionality, Image transmission optimizations, Misc bug Fixes",
         "downloads": [
             {
                 "btn": "Download Sky",
@@ -250,7 +250,7 @@
         ],
         "date": "2022-10-12",
         "version": "28.32.9",
-        "notes": "- Unknown Notes -",
+        "notes": "Improved HDR, Possibly fixed Black Screen issue, INAV Color OSD, \"Adapt to 1s vtx\"",
         "downloads": [
             {
                 "btn": "Download Sky",

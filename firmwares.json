@@ -265,5 +265,28 @@
                 "filename": "Avatar_Gnd_28.32.9.img"
             }
         ]
+    },
+    {
+        "badges": [
+            "official",
+            "beta"
+        ],
+        "date": "2022-10-20",
+        "version": "28.32.10",
+        "notes": "Optimized RF performance, Image quality, Smoothing, Bitrate display, Misc bug fixes",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "97201473C5B7B2D9231B3CD861D34577FD255072",
+                "url": "/dl/28.32.10/Avatar_Sky_28.32.10.img",
+                "filename": "Avatar_Sky_28.32.10.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "2F0A70720EAABDEA28148E7F3A1B70AD28FFE3E1",
+                "url": "/dl/28.32.10/Avatar_Gnd_28.32.10.img",
+                "filename": "Avatar_Gnd_28.32.10.img"
+            }
+        ]
     }
 ]

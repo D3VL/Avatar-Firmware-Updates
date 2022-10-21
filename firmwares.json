@@ -263,6 +263,12 @@
                 "sha1": "D25EE5E5974E713CA17EBC3925679FC67EFDB2F6",
                 "url": "/dl/28.32.9/Avatar_Gnd_28.32.9.img",
                 "filename": "Avatar_Gnd_28.32.9.img"
+            },
+            {
+                "btn": "Download MiniSky",
+                "sha1": "82D994DE1603C122FAAFBA9ECDF5AD0DDB42945F",
+                "url": "/dl/28.32.9/Avatar_Sky_28.32.9.img",
+                "filename": "AvatarMini_Sky_28.32.9.img"
             }
         ]
     },
@@ -286,6 +292,12 @@
                 "sha1": "2F0A70720EAABDEA28148E7F3A1B70AD28FFE3E1",
                 "url": "/dl/28.32.10/Avatar_Gnd_28.32.10.img",
                 "filename": "Avatar_Gnd_28.32.10.img"
+            },
+            {
+                "btn": "Download MiniSky",
+                "sha1": "97201473C5B7B2D9231B3CD861D34577FD255072",
+                "url": "/dl/28.32.10/Avatar_Sky_28.32.10.img",
+                "filename": "AvatarMini_Sky_28.32.10.img"
             }
         ]
     }

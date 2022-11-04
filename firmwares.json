@@ -221,8 +221,7 @@
     },
     {
         "badges": [
-            "official",
-            "latest"
+            "official"
         ],
         "date": "2022-09-09",
         "version": "27.32.10",
@@ -275,11 +274,11 @@
     {
         "badges": [
             "official",
-            "beta"
+            "latest"
         ],
         "date": "2022-10-20",
         "version": "28.32.10",
-        "notes": "Optimized RF performance, Image quality, Smoothing, Bitrate display, Misc bug fixes",
+        "notes": "Optimized RF performance, Image quality, coloured INAV OSD, Smoothing, Bitrate display on low signal, Misc bug fixes",
         "downloads": [
             {
                 "btn": "Download Sky",

@@ -299,5 +299,28 @@
                 "filename": "AvatarMini_Sky_28.32.10.img"
             }
         ]
+    },
+    {
+        "badges": [
+            "official",
+            "beta"
+        ],
+        "date": "2022-12-01",
+        "version": "29.33.12",
+        "notes": "Added OSD Playback, Camera settings save to VTX, Optimized RF Low level performance.",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "4D997776F0954ABB632A4AC57BCCD0D51E9C078D",
+                "url": "/dl/29.33.12/Avatar_Sky_29.33.12.img",
+                "filename": "Avatar_Sky_29.33.12.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "5264093BABF890676CE5E827868CE5AACE374D7E",
+                "url": "/dl/29.33.12/Avatar_Gnd_29.33.12.img",
+                "filename": "Avatar_Gnd_29.33.12.img"
+            }
+        ]
     }
 ]

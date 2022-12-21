@@ -273,8 +273,7 @@
     },
     {
         "badges": [
-            "official",
-            "latest"
+            "official"
         ],
         "date": "2022-10-20",
         "version": "28.32.10",
@@ -320,6 +319,35 @@
                 "sha1": "5264093BABF890676CE5E827868CE5AACE374D7E",
                 "url": "/dl/29.33.12/Avatar_Gnd_29.33.12.img",
                 "filename": "Avatar_Gnd_29.33.12.img"
+            }
+        ]
+    },
+    {
+        "badges": [
+            "official",
+            "latest"
+        ],
+        "date": "2022-12-21",
+        "version": "29.33.16",
+        "notes": "Added OSD Playback, Camera settings save to VTX, Optimized RF Low level performance.",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "4EA6B0BC51763C494373D25D7A8F16B7512E1D5C",
+                "url": "/dl/29.33.16/Avatar_Sky_29.33.16.img",
+                "filename": "Avatar_Sky_29.33.16.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "873BDC6E9BEB4792DBEC3C81124DAD15E870D3A2",
+                "url": "/dl/29.33.16/Avatar_Gnd_29.33.16.img",
+                "filename": "Avatar_Gnd_29.33.16.img"
+            },
+            {
+                "btn": "Download VRX",
+                "sha1": "4A55DD05BF1A03C43CF64A25DFC33B90DEB9FB7C",
+                "url": "/dl/29.33.16/AvatarSE_Gnd_29.33.16.img",
+                "filename": "AvatarSE_Gnd_29.33.16.img"
             }
         ]
     }

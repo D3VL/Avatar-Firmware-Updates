@@ -350,5 +350,40 @@
                 "filename": "AvatarSE_Gnd_29.33.16.img"
             }
         ]
+    },
+    {
+        "badges": [
+            "official",
+            "beta"
+        ],
+        "date": "2022-12-23",
+        "version": "31.36.8",
+        "notes": "Optimized Image Quality, Fixed Low Bitrate issues in 720p100fps mode, added clean HDMI output.",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "8E9FC56B0A72C2D39744D261DEE708F8E0F96032",
+                "url": "/dl/31.36.8/Avatar_Sky_31.36.8.img",
+                "filename": "Avatar_Sky_31.36.8.img"
+            },
+            {
+                "btn": "Download Ground",
+                "sha1": "A555361BD59E59D212B9CA5432541604964B3114",
+                "url": "/dl/31.36.8/Avatar_Gnd_31.36.8.img",
+                "filename": "Avatar_Gnd_31.36.8.img"
+            },
+            {
+                "btn": "Download VRX",
+                "sha1": "F054B6E9684EF9C423C42A04DE76A45971A35B2A",
+                "url": "/dl/31.36.8/AvatarSE_Gnd_31.36.8.img",
+                "filename": "AvatarSE_Gnd_31.36.8.img"
+            },
+            {
+                "btn": "Download Mini Ground",
+                "sha1": "50B06031D1744C2059897A56304382B9E49AEB2A",
+                "url": "/dl/31.36.8/AvatarMini_Gnd_31.36.8.img",
+                "filename": "AvatarMini_Gnd_31.36.8.img"
+            }
+        ]
     }
 ]

@@ -419,5 +419,40 @@
                 "filename": "AvatarMini_Gnd_32.37.10.img"
             }
         ]
+    },
+    {
+        "badges": [
+            "official",
+            "beta"
+        ],
+        "date": "2023-05-03",
+        "version": "33.39.10",
+        "notes": "Support sharing mode, High Bitrate mode, Hide OSD Icons, Custom INAV Font Support",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "BD57A553A6ED58ABD1413EA51B711B49A1FC4360",
+                "url": "/dl/33.39.10/Avatar_Sky_33.39.10.img",
+                "filename": "Avatar_Sky_33.39.10.img"
+            },
+            {
+                "btn": "Download Goggles",
+                "sha1": "4ABBA219D7197A7FA874E41095E1C9413CABD959",
+                "url": "/dl/33.39.10/Avatar_Gnd_33.39.10.img",
+                "filename": "Avatar_Gnd_33.39.10.img"
+            },
+            {
+                "btn": "Download VRX",
+                "sha1": "5E841651AF1C4B94E5402B6D595C642DE2A5D584",
+                "url": "/dl/33.39.10/AvatarSE_Gnd_33.39.10.img",
+                "filename": "AvatarSE_Gnd_33.39.10.img"
+            },
+            {
+                "btn": "Download Box Goggles",
+                "sha1": "0D3E0D9514348743D480B281FF447CC335D1C674",
+                "url": "/dl/33.39.10/AvatarMini_Gnd_33.39.10.img",
+                "filename": "AvatarMini_Gnd_33.39.10.img"
+            }
+        ]
     }
 ]

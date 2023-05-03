@@ -1,10 +1,10 @@
 // this is designed to be run in a node environment!
 
 const filename_match = {
-    'Avatar_Gnd_': 'Download Ground',
+    'Avatar_Gnd_': 'Download Avatar Goggles',
     'Avatar_Sky_': 'Download Sky',
     'AvatarMini_Sky': 'Download Mini Sky',
-    'AvatarMini_Gnd': 'Download Mini Ground',
+    'AvatarMini_Gnd': 'Download Recon HD',
     'AvatarSE_Gnd': 'Download VRX',
     'AvatarSE_Sky': 'Download ???',
     'Avatar': 'Download'

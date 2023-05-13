@@ -427,7 +427,7 @@
         ],
         "date": "2023-05-03",
         "version": "33.39.10",
-        "notes": "Support sharing mode, High Bitrate mode, Hide OSD Icons, Custom INAV Font Support",
+        "notes": "Support sharing mode, High Bitrate mode, Hide OSD Icons, Updated INAV built in OSD font to support INAV 6.",
         "downloads": [
             {
                 "btn": "Download Sky",

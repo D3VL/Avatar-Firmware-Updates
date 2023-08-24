@@ -387,8 +387,7 @@
     },
     {
         "badges": [
-            "official",
-            "latest"
+            "official"
         ],
         "date": "2023-03-21",
         "version": "32.37.10",
@@ -423,7 +422,7 @@
     {
         "badges": [
             "official",
-            "beta"
+            "latest"
         ],
         "date": "2023-05-03",
         "version": "33.39.10",

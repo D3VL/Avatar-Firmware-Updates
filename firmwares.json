@@ -387,8 +387,7 @@
     },
     {
         "badges": [
-            "official",
-            "latest"
+            "official"
         ],
         "date": "2023-03-21",
         "version": "32.37.10",
@@ -423,7 +422,7 @@
     {
         "badges": [
             "official",
-            "beta"
+            "latest"
         ],
         "date": "2023-05-03",
         "version": "33.39.10",
@@ -452,6 +451,53 @@
                 "sha1": "0D3E0D9514348743D480B281FF447CC335D1C674",
                 "url": "/dl/33.39.10/AvatarMini_Gnd_33.39.10.img",
                 "filename": "AvatarMini_Gnd_33.39.10.img"
+            }
+        ]
+    },
+    {
+        "badges": [
+            "official",
+            "beta"
+        ],
+        "date": "2023-08-24",
+        "version": "34.40.15",
+        "notes": "'race mode', improved camera low light noise reduction, enhanced OSD features, and various fixes including DVR playback and voltage display issues",
+        "downloads": [
+            {
+                "btn": "Download Sky",
+                "sha1": "C0903FAC4E91A1BB4D99AF9D6658CABD4EB14A49",
+                "url": "/dl/34.40.15/Avatar_Sky_34.40.15.img",
+                "filename": "Avatar_Sky_34.40.15.img"
+            },
+            {
+                "btn": "Download Avatar Goggles",
+                "sha1": "4A98F619EFE9C8B1E07DA4C50A451A95FC79BA80",
+                "url": "/dl/34.40.15/Avatar_Gnd_34.40.15.img",
+                "filename": "Avatar_Gnd_34.40.15.img"
+            },
+            {
+                "btn": "Download VRX",
+                "sha1": "10BB82139D07FEC323923B4824EBA827CA77D289",
+                "url": "/dl/34.40.15/AvatarSE_Gnd_34.40.15.img",
+                "filename": "AvatarSE_Gnd_34.40.15.img"
+            },
+            {
+                "btn": "Download Recon HD",
+                "sha1": "BB68880E8A347FFDD069073FBD0C446E5DCE76D2",
+                "url": "/dl/34.40.15/AvatarMini_Gnd_34.40.15.img",
+                "filename": "AvatarMini_Gnd_34.40.15.img"
+            },
+            {
+                "btn": "Download Release Notes",
+                "sha1": "88EB379051560B47A10D68B6C15E506455F20478",
+                "url": "/dl/34.40.15/release_notes.pdf",
+                "filename": "release_notes.pdf"
+            },
+            {
+                "btn": "Download Font Files",
+                "sha1": "74544D0DC9DEDD83E1EFC8D8AEB653552FE18FFC",
+                "url": "/dl/34.40.15/userfont.zip",
+                "filename": "userfont.zip"
             }
         ]
     }
